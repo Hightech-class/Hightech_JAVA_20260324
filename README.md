@@ -10,4 +10,4 @@ JAVA class contents
 * Scanner를 이용한 키 입력
  ** Scanner에서 키 입력 받기 : 입력되는 키 값을 공백으로 구분되는 아이템 단위로 읽음(공백문자 : '\t', '\f', '\r', '\n')
 
-* Scanner 주요 메소드(##작성필요!##)
+* Scanner 주요 메소드
